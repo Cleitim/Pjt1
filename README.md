@@ -8,6 +8,8 @@
 4. Adicionei o arquivo para fazer o commit com o comando **"GIT ADD ."** e logo em seguida fiz o commit do mesmo com o comado **"GIT COMMIT -M "Primeiro Projeto GITHUB" ".**
 5. Fiz a conexão com o **GITHUB** pelo caminhos SSH e logo em seguida fiz o **PUSH -U ORIGIN MASTER**.
 
+>#**Projeto 2 GitHub**
+Gerando Realse da versão do código dois release versão 0.1.0 e a ultimá versão 0.1.1
 
 
 >![MUO logo](http://www.cgmirror.com/defaultimages/cg_fb_logo.png)
