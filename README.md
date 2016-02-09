@@ -9,7 +9,8 @@
 5. Fiz a conexão com o **GITHUB** pelo caminhos SSH e logo em seguida fiz o **PUSH -U ORIGIN MASTER**.
 
 >#**Projeto 2 GitHub**
-Gerando Realse da versão do código dois release versão 0.1.0 e a ultimá versão 0.1.1
+Gerando Realse da versão do código dois release versão 0.1.0 e
+Foi inserido no projeto vários arquivos PHP para gera a ultima versão do release 0.1.1
 
 
 >![MUO logo](http://www.cgmirror.com/defaultimages/cg_fb_logo.png)
